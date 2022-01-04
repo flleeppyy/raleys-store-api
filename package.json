@@ -1,0 +1,53 @@
+{
+  "name": "raleys-store-api",
+  "version": "1.0.0",
+  "description": "This is an unofficial API for getting information about Raleys' store locations.",
+  "author": "flleeppyy",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flleeppyy/raleys-store-api.git"
+  },
+  "scripts": {
+    "build": "yarn tsc",
+    "clean-dist": "rimraf dist",
+    "start": "NODE_ENV=production node -r tsconfig-paths/register dist/index.js",
+    "dev": "nodemon --watch 'src' --ext 'ts' --exec \"NODE_ENV=development ts-node -r tsconfig-paths/register src/index.ts\"",
+    "add-models": "git submodule add https://github.com/PatchyLauncher/models.git",
+    "update-models": "git submodule update --remote",
+    "lint-staged": "lint-staged",
+    "lint": "eslint --fix 'src/**/*.ts' && prettier --write 'src/**/*.ts'"
+  },
+  "pre-commit": [
+    "pre-commit"
+  ],
+  "lint-staged": {
+    "*.ts": [
+      "prettier --write",
+      "eslint --fix"
+    ]
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.5",
+    "@typescript-eslint/eslint-plugin": "^5.8.0",
+    "@typescript-eslint/parser": "^5.8.0",
+    "eslint": "^8.5.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "grunt": "^1.4.1",
+    "lint-staged": "^12.1.3",
+    "nodemon": "^2.0.15",
+    "pre-commit": "^1.2.2",
+    "prettier": "^2.5.1",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.4"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10",
+    "dotenv": "^10.0.0",
+    "fastify": "^3.25.2",
+    "tsconfig-paths": "^3.12.0",
+    "winston": "^3.3.3"
+  }
+}

@@ -1,0 +1,4648 @@
+[
+  {
+    "name": "Raley’s O-N-E Market | Grocery Store – Soaring Way, Truckee, CA",
+    "address": "10001 Soaring Way, Truckee CA, 96161",
+    "lat": 39.3173475,
+    "lng": -120.1501845,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(530) 587-0125"
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 7am - 10pm"
+        ]
+      }
+    ],
+    "services": [],
+    "page": "https://www.raleys.com/stores/raleys-125/"
+  },
+  {
+    "name": "Bel Air | Grocery Store, Rancho Murieta, California",
+    "address": "7315 Murieta Drive, Rancho Murieta CA, 95683",
+    "lat": 38.49175,
+    "lng": -121.09966,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(916) 354-1002"
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 10pm"
+        ]
+      }
+    ],
+    "services": [
+      "Online Shopping",
+      "Bakery",
+      "Cafe",
+      "Deli",
+      "Hot Wok",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/bel-air-rancho-murieta-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – Freeport Blvd, Sacramento, California",
+    "address": "4690 Freeport Blvd., Sacramento CA, 95822",
+    "lat": 38.532891,
+    "lng": -121.495253,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(916) 451-0126"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 10am - 7:30pm",
+          "Sat - Sun : 9am - 5:30pm"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Delivery",
+      "Bakery",
+      "Cafe",
+      "Deli",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-freeport-sacramento-california-2/"
+  },
+  {
+    "name": "Raley’s | Grocery Store, West Capitol Ave, West Sacramento, California",
+    "address": "1601 West Capitol Ave., West Sacramento CA, 95691",
+    "lat": 38.57990102858187,
+    "lng": -121.52966737747192,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(916) 372-3000"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Fri : 6am - 11pm",
+          "Sat - Sun : 7am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 10am - 6:30pm",
+          "Sat : 9am - 5:30pm",
+          "Sun : Closed"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Customer Service",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Hot Wok",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-west-capitol-west-sacramento-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – Hwy 95A, Fernley, Nevada",
+    "address": "1400 US Highway 95A North, Fernley NV, 89408",
+    "lat": 39.609219,
+    "lng": -119.223181,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(775) 575-1381"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 10am - 6:30pm",
+          "Sat : 9am - 5:30pm",
+          "Sun : Closed"
+        ]
+      }
+    ],
+    "services": [
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Meat",
+      "Produce",
+      "Pharmacy"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-fernley-nevada/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – South Main Street, Tonopah, Nevada",
+    "address": "Hwy 95, Air Force Rd, Tonopah NV, 89049",
+    "lat": 38.05962,
+    "lng": -117.218177,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(775) 482-6791"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 7am - 9pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Sun : Closed"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Cafe",
+      "Bakery",
+      "Deli",
+      "Meat",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-tonopah-nevada/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – W Goldfield Ave, Yerington, Nevada",
+    "address": "176 W Goldfield Ave., Yerington  NV, 89447",
+    "lat": 38.993875,
+    "lng": -119.165094,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(775) 463-4431"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 10pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Sun : Closed"
+        ]
+      }
+    ],
+    "services": [
+      "Bakery",
+      "Deli",
+      "Meat",
+      "Produce",
+      "Pharmacy"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-yerington-nevada/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – Caughlin Pkwy, Reno, Nevada",
+    "address": "4788 Caughlin Pkwy., Reno  NV, 89519",
+    "lat": 39.482866,
+    "lng": -119.853698,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(775) 828-2424"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 10am - 7pm",
+          "Sat : 9am - 5:30pm",
+          "Sun : Closed"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Deli",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-caughlin-reno-nevada/"
+  },
+  {
+    "name": "Nob Hill Foods | Grocery Store – Monroe Street, Santa Clara, California",
+    "address": "3555 Monroe Street, Santa Clara CA, 95051",
+    "lat": 37.3676571,
+    "lng": -121.9951039,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(408) 557-0115"
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sat : 6am - 11pm",
+          "Sun: 6am - 10pm"
+        ]
+      }
+    ],
+    "services": [
+      "Online Shopping",
+      "Delivery"
+    ],
+    "page": "https://www.raleys.com/stores/nob-hill-foods-monroe-santa-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – South McCarran, Reno, Nevada",
+    "address": "3310 S. McCarran Blvd., Reno NV, 89502",
+    "lat": 39.484277,
+    "lng": -119.746416,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(775) 825-5201"
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      }
+    ],
+    "services": [
+      "Bakery",
+      "Deli",
+      "Floral",
+      "Meat",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-mccarran-reno-nevada/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – Sunrise Blvd, Rancho Cordova, California",
+    "address": "4030 Sunrise Blvd, Rancho Cordova CA, 95742",
+    "lat": 38.557275,
+    "lng": -121.244291,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(916) 351-8324"
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      }
+    ],
+    "services": [
+      "Online Shopping"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-sunrise-rancho-cordova-california/"
+  },
+  {
+    "name": "Raley’s |Grocery Store – Mayberry Drive, Reno, Nevada",
+    "address": "1441 Mayberry Drive, Reno NV, 89509",
+    "lat": 39.510054523039,
+    "lng": -119.8365980386734,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(775) 786-0270"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 7am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 10am - 7pm",
+          "Sat : 9am - 5:30pm",
+          "Sun : Closed"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Delivery",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-mayberry-reno-nevada/"
+  },
+  {
+    "name": "Food Source | Grocery Store – West Hammer Ln, Stockton, California",
+    "address": "2323 West Hammer Lane, Stockton CA, 95209",
+    "lat": 38.02203005083362,
+    "lng": -121.34392976760864,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(209) 955-1475"
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 10pm"
+        ]
+      }
+    ],
+    "services": [
+      "Bakery"
+    ],
+    "page": "https://www.raleys.com/stores/food-source-west-hammer-stockton-california/"
+  },
+  {
+    "name": "Nob Hill Foods | Grocery Store – Snell Ave, San Jose, California",
+    "address": "6061 Snell Avenue, San Jose CA, 95123",
+    "lat": 37.2377727252733,
+    "lng": -121.83212399482727,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(408) 225-0546"
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sat : 6am - 11pm",
+          "Sun: 6am - 10pm"
+        ]
+      }
+    ],
+    "services": [
+      "Online Shopping",
+      "Delivery",
+      "Bakery",
+      "Cafe",
+      "Deli",
+      "Floral",
+      "Hot Wok",
+      "Meat",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/nob-hill-foods-snell-san-jose-california/"
+  },
+  {
+    "name": "Nob Hill Foods | Grocery Store – Grant Road, Mountain View, California",
+    "address": "1250 Grant Road, Mountain View CA, 94040",
+    "lat": 37.37811202145544,
+    "lng": -122.07597970962524,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(650) 390-9222"
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      }
+    ],
+    "services": [
+      "Online Shopping",
+      "Delivery",
+      "Customer Service",
+      "Bakery",
+      "Cafe",
+      "Deli",
+      "Floral",
+      "Meat",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/nob-hill-foods-grant-mountain-view-california/"
+  },
+  {
+    "name": "Nob Hill Foods | Grocery Store – Blanding Ave, Alameda, California",
+    "address": "2531 Blanding Avenue, Alameda CA, 94501",
+    "lat": 37.769154254182375,
+    "lng": -122.23361849784851,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(510) 814-8800"
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      }
+    ],
+    "services": [
+      "Online Shopping",
+      "Delivery",
+      "Customer Service",
+      "Bakery",
+      "Cafe",
+      "Deli",
+      "Hot Wok",
+      "Meat",
+      "Produce",
+      "Floral"
+    ],
+    "page": "https://www.raleys.com/stores/nob-hill-foods-blanding-alameda-california/"
+  },
+  {
+    "name": "Nob Hill Foods | Grocery Store – East Stanley, Livermore, California",
+    "address": "919 East Stanley, Livermore CA, 94550",
+    "lat": 37.67714628913172,
+    "lng": -121.78516387939453,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(925) 443-9500"
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      }
+    ],
+    "services": [
+      "Bakery",
+      "Cafe",
+      "Deli",
+      "Meat",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/nob-hill-foods-east-stanley-livermore-california/"
+  },
+  {
+    "name": "Nob Hill Foods | Grocery Store – Market Place, San Ramon, California",
+    "address": "130 Market Place, San Ramon CA, 94583",
+    "lat": 37.762750835177684,
+    "lng": -121.95126235485077,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(925) 866-1022"
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 10pm"
+        ]
+      }
+    ],
+    "services": [
+      "Customer Service",
+      "Bakery",
+      "Deli",
+      "Floral",
+      "Meat",
+      "Produce",
+      "Online Shopping",
+      "Delivery"
+    ],
+    "page": "https://www.raleys.com/stores/nob-hill-foods-market-place-san-ramon-california/"
+  },
+  {
+    "name": "Nob Hill Foods | Grocery Store – Redwood Shores Pkwy, Redwood City, California",
+    "address": "270 Redwood Shores Pkwy., Redwood City CA, 94065",
+    "lat": 37.52260985353657,
+    "lng": -122.25302696228027,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(650) 654-2106"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 10am - 7pm",
+          "Sat : 9am - 5:30pm",
+          "Sun : Closed"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Delivery",
+      "Bakery",
+      "Cafe",
+      "Deli",
+      "Hot Wok",
+      "Floral",
+      "Meat",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/nob-hill-foods-redwood-shores-redwood-city-california/"
+  },
+  {
+    "name": "Nob Hill Foods | Grocery Store – Oak Grove Road, Walnut Creek, California",
+    "address": "2270 Oak Grove Road, Walnut Creek CA, 94598",
+    "lat": 37.930675790916396,
+    "lng": -122.01413333415985,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(925) 256-7188"
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 9pm"
+        ]
+      }
+    ],
+    "services": [
+      "Bakery",
+      "Deli",
+      "Floral",
+      "Meat",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/nob-hill-foods-oak-grove-walnut-creek-california/"
+  },
+  {
+    "name": "Nob Hill Foods | Grocery Store – Trancas Street, Napa, California",
+    "address": "611 Trancas Street, Napa CA, 94558",
+    "lat": 38.324113209427885,
+    "lng": -122.28757917881012,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(707) 224-8583"
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      }
+    ],
+    "services": [
+      "Online Shopping",
+      "Bakery",
+      "Deli",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/nob-hill-foods-trancas-napa-california/"
+  },
+  {
+    "name": "Nob Hill Foods | Grocery Store – Center Ave, Martinez, California",
+    "address": "520 Center Avenue, Martinez CA, 94553",
+    "lat": 37.99261154393337,
+    "lng": -122.11897552013397,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(925) 370-9400"
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      }
+    ],
+    "services": [
+      "Online Shopping",
+      "Delivery",
+      "Bakery",
+      "Deli",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/nob-hill-foods-center-martinez-california/"
+  },
+  {
+    "name": "Nob Hill Foods | Grocery Store – Mt. Hermon Road, Scotts Valley, California",
+    "address": "222 Mt. Hermon Road, Scotts Valley CA, 95066",
+    "lat": 37.045702432681146,
+    "lng": -122.02763020992279,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(831) 438-1611"
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sat : 6am - 11pm",
+          "Sun: 6am - 10pm"
+        ]
+      }
+    ],
+    "services": [
+      "Online Shopping",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/nob-hill-foods-mt-hermon-scotts-valley-california/"
+  },
+  {
+    "name": "Nob Hill Foods | Grocery Store – Main Street, Watsonville, California",
+    "address": "1912 Main Street, Watsonville CA, 95076",
+    "lat": 36.919001715760714,
+    "lng": -121.78065776824951,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(831) 728-9555"
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sat : 6am - 11pm",
+          "Sun: 6am - 10pm"
+        ]
+      }
+    ],
+    "services": [
+      "Online Shopping",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/nob-hill-foods-main-watsonville-california/"
+  },
+  {
+    "name": "Nob Hill Foods | Grocery Store – Bay Ave, Capitola, California",
+    "address": "809 Bay Avenue, Capitola CA, 95010",
+    "lat": 36.980632206511174,
+    "lng": -121.95627808570862,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(831) 476-5600"
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sat : 6am - 11pm",
+          "Sun: 6am - 10pm"
+        ]
+      }
+    ],
+    "services": [
+      "Online Shopping",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/nob-hill-foods-bay-capitola-california/"
+  },
+  {
+    "name": "Nob Hill Foods | Grocery Store – South Main Street, Salinas, California",
+    "address": "1320 S. Main Street, Salinas CA, 93901",
+    "lat": 36.65527696600741,
+    "lng": -121.66156768798828,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(831) 758-8481"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 10am - 7:30pm",
+          "Sat - Sun : 9am - 5:30pm"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Delivery",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Hot Wok",
+      "Meat",
+      "Floral"
+    ],
+    "page": "https://www.raleys.com/stores/nob-hill-foods-s-main-salinas-california/"
+  },
+  {
+    "name": "Nob Hill Foods | Grocery Store – West Campbell Ave, Campbell, California",
+    "address": "1602 W. Campbell Ave., Campbell CA, 95008",
+    "lat": 37.28545797641983,
+    "lng": -121.97861552238464,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(408) 379-6650"
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sat : 6am - 11pm",
+          "Sun: 6am - 10pm"
+        ]
+      }
+    ],
+    "services": [
+      "Online Shopping",
+      "Delivery",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/nob-hill-foods-w-campbell-campbell-california/"
+  },
+  {
+    "name": "Nob Hill Foods | Grocery Store – Airline Hwy, Hollister, California",
+    "address": "1700 Airline Hwy., Hollister CA, 95023",
+    "lat": 36.83713659528373,
+    "lng": -121.39094352722168,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(831) 637-7447"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 9am - 9pm",
+          "Sat - Sun : 9am - 5:30pm"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Customer Service",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/nob-hill-foods-airline-hollister-california/"
+  },
+  {
+    "name": "Nob Hill Foods | Grocery Store – Vineyard Town Center, Morgan Hill, California",
+    "address": "451 Vineyard Town Center, Morgan Hill CA, 95037",
+    "lat": 37.11049447214841,
+    "lng": -121.642245054245,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(408) 779-8485"
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sat : 6am - 11pm",
+          "Sun: 6am - 10pm"
+        ]
+      }
+    ],
+    "services": [
+      "Online Shopping",
+      "Delivery",
+      "Bakery",
+      "Deli",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/nob-hill-foods-vinyard-town-morgan-hill-california/"
+  },
+  {
+    "name": "Nob Hill Foods | Grocery Store – Los Gatos Blvd, Los Gatos, California",
+    "address": "15710 Los Gatos Blvd., Los Gatos CA, 95030",
+    "lat": 37.24023692524922,
+    "lng": -121.96006536483765,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(408) 356-0421"
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sat : 6am - 11pm",
+          "Sun: 6am - 10pm"
+        ]
+      }
+    ],
+    "services": [
+      "Bakery",
+      "Deli",
+      "Meat",
+      "Floral",
+      "Produce",
+      "Cafe",
+      "Customer Service"
+    ],
+    "page": "https://www.raleys.com/stores/nob-hill-foods-los-gatos-los-gatos-california/"
+  },
+  {
+    "name": "Nob Hill Foods | Grocery Store – First Street, Gilroy, California",
+    "address": "777 First Street, Gilroy CA, 95020",
+    "lat": 37.0141402007076,
+    "lng": -121.58531785011292,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(408) 847-4857"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 9am - 7:30pm",
+          "Sat : 9am - 5:30pm",
+          "Sun : 9am - 5pm"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Delivery",
+      "Customer Service",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/nob-hill-foods-first-gilroy-california/"
+  },
+  {
+    "name": "Nob Hill Foods | Grocery Store – N Street, Newman, California",
+    "address": "1945 N Street, Newman CA, 95360",
+    "lat": 37.30957728195218,
+    "lng": -121.0199511051178,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(209) 862-1002"
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 10pm"
+        ]
+      }
+    ],
+    "services": [
+      "Bakery",
+      "Cafe",
+      "Customer Service",
+      "Floral",
+      "Produce",
+      "Deli",
+      "Meat"
+    ],
+    "page": "https://www.raleys.com/stores/nob-hill-foods-n-newman-california/"
+  },
+  {
+    "name": "Bel Air | Grocery Store – East Gibson Road, Woodland, California",
+    "address": "1885 East Gibson Road, Woodland CA, 95776",
+    "lat": 38.66304,
+    "lng": -121.74218416213989,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(530) 668-4422"
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      }
+    ],
+    "services": [
+      "Online Shopping",
+      "Customer Service",
+      "Bakery",
+      "Cafe",
+      "Deli",
+      "Floral",
+      "Meat",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/bel-air-east-gibson-woodland-california/"
+  },
+  {
+    "name": "Bel Air | Grocery Store – Arena Blvd, Sacramento, California",
+    "address": "3250 Arena Blvd, Sacramento CA, 95834",
+    "lat": 38.64204807605273,
+    "lng": -121.53363704681396,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(916) 419-8844"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 10am - 6:30pm",
+          "Sat : 9am - 5:30pm",
+          "Sun : Closed"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Delivery",
+      "Bakery",
+      "Cafe",
+      "Deli",
+      "Floral",
+      "Hot Wok",
+      "Meat",
+      "Produce",
+      "Customer Service"
+    ],
+    "page": "https://www.raleys.com/stores/bel-air-arena-sacramento-california/"
+  },
+  {
+    "name": "Bel Air | Grocery Store – Elk Grove Blvd, Elk Grove, California",
+    "address": "9435 Elk Grove Blvd, Elk Grove CA, 95624",
+    "lat": 38.409604062582595,
+    "lng": -121.35193079710007,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(916) 714-6996"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 10am - 7pm",
+          "Sat : 9am - 5:30pm",
+          "Sun : Closed"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Customer Service",
+      "Bakery",
+      "Cafe",
+      "Deli",
+      "Floral",
+      "Hot Wok",
+      "Meat",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/bel-air-elk-grove-elk-grove-california/"
+  },
+  {
+    "name": "Bel Air | Grocery Store – East Bidwell, Folsom, California",
+    "address": "2760 East Bidwell, Folsom CA, 95630",
+    "lat": 38.65572275249429,
+    "lng": -121.12183213233948,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(916) 983-8844"
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      }
+    ],
+    "services": [
+      "Online Shopping",
+      "Customer Service",
+      "Bakery",
+      "Cafe",
+      "Deli",
+      "Floral",
+      "Hot Wok",
+      "Meat"
+    ],
+    "page": "https://www.raleys.com/stores/bel-air-east-bidwell-folsom-california/"
+  },
+  {
+    "name": "Bel Air | Grocery Store – Elk Grove Florin, Elk Grove, California",
+    "address": "8425 Elk Grove Florin, Elk Grove CA, 95624",
+    "lat": 38.45150501213478,
+    "lng": -121.37077331542969,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(916) 681-5775"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 10am - 7pm",
+          "Sat : 9am - 5:30pm",
+          "Sun : Closed"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Delivery",
+      "Customer Service",
+      "Bakery",
+      "Cafe",
+      "Deli",
+      "Floral",
+      "Hot Wok",
+      "Meat",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/bel-air-elk-grove-florin-elk-grove-california/"
+  },
+  {
+    "name": "Bel Air | Grocery Store – Golden Centre Lane, Gold River, California",
+    "address": "2155 Golden Centre Lane, Gold River CA, 95670",
+    "lat": 38.62513546182172,
+    "lng": -121.26410722732544,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(916) 858-0494"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 10am - 7pm",
+          "Sat : 9am - 5:30pm",
+          "Sun : Closed"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Customer Service",
+      "Bakery",
+      "Cafe",
+      "Deli",
+      "Floral",
+      "Hot Wok",
+      "Meat",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/bel-air-golden-centre-gold-river-california/"
+  },
+  {
+    "name": "Bel Air |Grocery Store –  Stabler Lane, Yuba City, California",
+    "address": "1286 Stabler Lane, Yuba City CA, 95993",
+    "lat": 39.147601936482815,
+    "lng": -121.64575338363647,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(530) 755-3991"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 10am - 7pm",
+          "Sat : 9am - 5:30pm",
+          "Sun : Closed"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Bakery",
+      "Cafe",
+      "Deli",
+      "Floral",
+      "Hot Wok",
+      "Meat",
+      "Produce",
+      "Online Shopping"
+    ],
+    "page": "https://www.raleys.com/stores/bel-air-stabler-yuba-city-california/"
+  },
+  {
+    "name": "Bel Air | Grocery Store – Walerga Rd, Antelope, California",
+    "address": "7901 Walerga Rd., Antelope CA, 95843",
+    "lat": 38.71183111976315,
+    "lng": -121.36581659317017,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(916) 725-0333"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 10am - 7:30pm",
+          "Sat - Sun : 9am - 5:30pm"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Customer Service",
+      "Bakery",
+      "Cafe",
+      "Deli",
+      "Floral",
+      "Hot Wok",
+      "Meat",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/bel-air-walerga-antelope-california/"
+  },
+  {
+    "name": "Bel Air | Grocery Store – Sunset Blvd, Rocklin, California",
+    "address": "2341 Sunset Blvd., Rocklin CA, 95765",
+    "lat": 38.79781136697975,
+    "lng": -121.26492261886597,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(916) 632-0180"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 10am - 6:30pm",
+          "Sat : 9am - 5:30pm",
+          "Sun : Closed"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Customer Service",
+      "Bakery",
+      "Cafe",
+      "Deli",
+      "Floral",
+      "Meat",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/bel-air-sunset-rocklin-california/"
+  },
+  {
+    "name": "Bel Air | Grocery Store – Grass Valley Hwy, Auburn, California",
+    "address": "2222 Grass Valley Hwy., Auburn CA, 95603",
+    "lat": 38.93446821543258,
+    "lng": -121.09137296676636,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(530) 889-8626"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 10am - 7pm",
+          "Sat : 9am - 5:30pm",
+          "Sun : Closed"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Customer Service",
+      "Bakery",
+      "Cafe",
+      "Deli",
+      "Floral",
+      "Hot Wok",
+      "Meat",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/bel-air-grass-valley-auburn-california/"
+  },
+  {
+    "name": "Bel Air | Grocery Store – Palmer Drive, Cameron Park, California",
+    "address": "3510 Palmer Dr., Cameron Park CA, 95682",
+    "lat": 38.66090034939351,
+    "lng": -120.96672534942627,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(530) 676-0512"
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      }
+    ],
+    "services": [
+      "Online Shopping",
+      "Customer Service",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Meat",
+      "Produce",
+      "Floral"
+    ],
+    "page": "https://www.raleys.com/stores/bel-air-palmer-cameron-park-california/"
+  },
+  {
+    "name": "Bel Air | Grocery Store – Laguna Blvd, Elk Grove, California",
+    "address": "5100 Laguna Blvd., Elk Grove CA, 95758",
+    "lat": 38.422310127983025,
+    "lng": -121.44553184509277,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(916) 684-7000"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 10am - 6:30pm",
+          "Sat : 9am - 5:30pm",
+          "Sun : Closed"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Bakery",
+      "Cafe",
+      "Deli",
+      "Floral",
+      "Hot Wok",
+      "Meat",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/bel-air-laguna-elk-grove-california/"
+  },
+  {
+    "name": "Bel Air | Grocery Store, Rush River Drive, Sacramento, California",
+    "address": "7465 Rush River Dr., Sacramento CA, 95831",
+    "lat": 38.486281422580426,
+    "lng": -121.53526782989502,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(916) 399-9091"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 10am - 7pm",
+          "Sat : 9am - 5:30pm",
+          "Sun : Closed"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Customer Service",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Produce",
+      "Hot Wok",
+      "Meat",
+      "Floral"
+    ],
+    "page": "https://www.raleys.com/stores/bel-air-rush-river-sacramento-california/"
+  },
+  {
+    "name": "Bel Air | Grocery Store – Foothills Blvd, Roseville, California",
+    "address": "4008 Foothills Blvd., Roseville CA, 95747",
+    "lat": 38.753246593472056,
+    "lng": -121.31085276603699,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(916) 783-1173"
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      }
+    ],
+    "services": [
+      "Online Shopping",
+      "Customer Service",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Hot Wok",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/bel-air-foothills-roseville-california/"
+  },
+  {
+    "name": "Bel Air | Grocery Store – Manzanita Ave, Carmichael, California",
+    "address": "4005 Manzanita Ave., Carmichael CA, 95608",
+    "lat": 38.637916670930494,
+    "lng": -121.33004128932953,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(916) 483-2691"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 10am - 7pm",
+          "Sat : 9am - 5:30pm",
+          "Sun : Closed"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Customer Service",
+      "Bakery",
+      "Deli",
+      "Hot Wok",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/bel-air-manzanita-carmichael-california/"
+  },
+  {
+    "name": "Bel Air | Grocery Store – West El Camino Ave, Sacramento, California",
+    "address": "1540 W. El Camino Ave., Sacramento CA, 95833",
+    "lat": 38.61208370612882,
+    "lng": -121.49665474891663,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(916) 920-2493"
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      }
+    ],
+    "services": [
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Hot Wok",
+      "Meat",
+      "Floral"
+    ],
+    "page": "https://www.raleys.com/stores/bel-air-w-el-camino-sacramento-california/"
+  },
+  {
+    "name": "Bel Air | Grocery Store – Sunrise Ave, Roseville, California",
+    "address": "1039 Sunrise Ave., Roseville CA, 95661",
+    "lat": 38.72867722992374,
+    "lng": -121.27124190330505,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(916) 786-6101"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 10am - 7pm",
+          "Sat : 9am - 5:30pm",
+          "Sun : Closed"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Hot Wok",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/bel-air-sunrise-roseville-california/"
+  },
+  {
+    "name": "Bel Air | Grocery Store – Florin Rd, Sacramento, California",
+    "address": "1301 Florin Rd., Sacramento CA, 95831",
+    "lat": 38.496215658730755,
+    "lng": -121.51004433631897,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(916) 421-6766"
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      }
+    ],
+    "services": [
+      "Online Shopping",
+      "Customer Service",
+      "Bakery",
+      "Deli",
+      "Hot Wok",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/bel-air-florin-sacramento-california/"
+  },
+  {
+    "name": "Bel-Air | Grocery Store – Arden Way, Sacramento, California",
+    "address": "4320 Arden Way, Sacramento CA, 95864",
+    "lat": 38.595029858042516,
+    "lng": -121.36360108852386,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(916) 972-0555"
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      }
+    ],
+    "services": [
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Hot Wok",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/bel-air-arden-way-sacramento-california/"
+  },
+  {
+    "name": "Bel-Air | Grocery Store – Fruitridge Road, Sacramento, California",
+    "address": "6231 Fruitridge Rd., Sacramento CA, 95820",
+    "lat": 38.525349161828174,
+    "lng": -121.43183380365372,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(916) 739-8647"
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      }
+    ],
+    "services": [
+      "Bakery",
+      "Customer Service",
+      "Cafe",
+      "Deli",
+      "Floral",
+      "Hot Wok",
+      "Meat",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/bel-air-fruitridge-sacramento-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store, Natomas Blvd,  Sacramento, California",
+    "address": "4650 Natomas Blvd., Sacramento CA, 95835",
+    "lat": 38.65744028162437,
+    "lng": -121.5107524394989,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(916) 419-6633"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 9am - 8pm",
+          "Sat - Sun : 9am - 5:30pm"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Delivery",
+      "Customer Service",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Hot Wok",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-natomas-sacramento-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store, South Lower Sacramento Road, Lodi, California",
+    "address": "311 S Lower Sacramento Rd., Lodi CA, 95242",
+    "lat": 38.12888541420708,
+    "lng": -121.3074517250061,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(209) 369-1917"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 10am - 7pm",
+          "Sat : 9am - 5:30pm",
+          "Sun : Closed"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Delivery",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-south-lower-sacramento-lodi-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – Elk Grove Blvd, Elk Grove, California",
+    "address": "4900 Elk Grove Blvd., Elk Grove CA, 95758",
+    "lat": 38.40722904564972,
+    "lng": -121.44840717315674,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(916) 683-0700"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 10am - 7:30pm",
+          "Sat - Sun : 9am - 5:30pm"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Delivery",
+      "Customer Service",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Hot Wok",
+      "Floral",
+      "Produce",
+      "Community Room"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-elk-grove-elk-grove-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – Fair Oaks Blvd, Sacramento, California",
+    "address": "2075 Fair Oaks Blvd, Sacramento CA, 95825",
+    "lat": 38.574973,
+    "lng": -121.415974,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(916) 648-2003"
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      }
+    ],
+    "services": [
+      "Online Shopping",
+      "Bakery",
+      "Cafe",
+      "Sushi",
+      "Meat",
+      "Floral",
+      "Produce",
+      "Deli",
+      "Charging Station"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-fair-oaks-sacramento-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – Fair Oaks Blvd, Carmichael, California",
+    "address": "5159 Fair Oaks Blvd., Carmichael CA, 95608",
+    "lat": 38.59710101841226,
+    "lng": -121.34468078613281,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(916) 483-9033"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 10am - 7pm",
+          "Sat : 9am - 5:30pm",
+          "Sun : Closed"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Sushi",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-fair-oaks-carmichael-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – South Highway 49, Jackson, California",
+    "address": "781 South Highway 49, Jackson CA, 95642",
+    "lat": 38.34407964355921,
+    "lng": -120.76875686645508,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(209) 223-9650"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 10am - 7pm",
+          "Sat : 9am - 5:30pm",
+          "Sun : Closed"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Hot Wok",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-south-highway-jackson-california/"
+  },
+  {
+    "name": "Raley’s O-N-E Market | Grocery Store – Park Drive, El Dorado Hills, California",
+    "address": "3935 Park Dr., El Dorado Hills CA, 95762",
+    "lat": 38.655655726132316,
+    "lng": -121.07089161872864,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(916) 933-0518"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 10am - 7pm",
+          "Sat : 9am - 5:30pm",
+          "Sun : Closed"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Delivery",
+      "Customer Service",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-park-el-dorado-hills-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – Placerville Drive, Placerville, California",
+    "address": "166 Placerville Dr., Placerville CA, 95667",
+    "lat": 38.726475951407785,
+    "lng": -120.83638072013855,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(530) 622-6800"
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      }
+    ],
+    "services": [
+      "Customer Service",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Hot Wok",
+      "Meat",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-placerville-placerville-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – Madison Ave, Fair Oaks, California",
+    "address": "8870 Madison Ave., Fair Oaks CA, 95628",
+    "lat": 38.66353927176446,
+    "lng": -121.22783303260803,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(916) 966-2201"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 10am - 7:30pm",
+          "Sat - Sun : 9am - 5:30pm"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Hot Wok",
+      "Meat",
+      "Floral",
+      "Produce",
+      "Community Room"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-madison-fair-oaks-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – Folsom Blvd, Sacramento, California",
+    "address": "8391 Folsom Blvd., Sacramento CA, 95826",
+    "lat": 38.547536106010405,
+    "lng": -121.39355063438416,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(916) 383-6622"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 9am - 8pm",
+          "Sat - Sun : 9am - 5:30pm"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Delivery",
+      "Customer Service",
+      "Bakery",
+      "Deli",
+      "Hot Wok",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-folsom-sacramento-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – San Juan Ave, Fair Oaks,  California",
+    "address": "4840 San Juan Ave., Fair Oaks CA, 95628",
+    "lat": 38.65411410249683,
+    "lng": -121.29180908203125,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(916) 967-4718"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 10am - 7:30pm",
+          "Sat - Sun : 9am - 5:30pm"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Delivery",
+      "Customer Service",
+      "Bakery",
+      "Produce",
+      "Meat",
+      "Cafe",
+      "Deli",
+      "Hot Wok",
+      "Floral",
+      "Community Room"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-san-juan-fair-oaks-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store, Marconi – Sacramento, California",
+    "address": "3518 Marconi Avenue, Sacramento CA, 95821",
+    "lat": 38.617029737594976,
+    "lng": -121.38163089752197,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(916) 972-7177"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 10am - 7pm",
+          "Sat : 9am - 5:30pm",
+          "Sun : Closed"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Delivery",
+      "Customer Service",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Hot Wok",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-marconi-sacramento-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – Douglas Blvd, Granite Bay, California",
+    "address": "6845 Douglas Blvd., Granite Bay CA, 95746",
+    "lat": 38.7437830337463,
+    "lng": -121.1728584766388,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(916) 791-8000"
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      }
+    ],
+    "services": [
+      "Online Shopping",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-douglas-granite-bay-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – Blue Ravine Rd, Folsom, California",
+    "address": "25025 Blue Ravine Road, Folsom CA, 95630",
+    "lat": 38.6891862054491,
+    "lng": -121.12267971038818,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(916) 351-1151"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 10am - 6:30pm",
+          "Sat : 9am - 5:30pm",
+          "Sun : Closed"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Customer Service",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-blue-ravine-folsom-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – East Bidwell St, Folsom, California",
+    "address": "715 East Bidwell St., Folsom CA, 95630",
+    "lat": 38.67011521072916,
+    "lng": -121.16018772125244,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(916) 983-7267"
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      }
+    ],
+    "services": [
+      "Online Shopping",
+      "Bakery",
+      "Customer Service",
+      "Deli",
+      "Cafe",
+      "Meat",
+      "Floral"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-east-bidwell-folsom-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – Alamo Drive, Vacaville, California",
+    "address": "3061 Alamo Dr., Vacaville CA, 95687",
+    "lat": 38.33568136716975,
+    "lng": -121.95471167564392,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(707) 446-8707"
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      }
+    ],
+    "services": [
+      "Online Shopping",
+      "Delivery",
+      "Bakery",
+      "Cafe",
+      "Deli",
+      "Floral",
+      "Hot Wok",
+      "Meat",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-alamo-vacaville-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – Southampton Road, Benicia, California",
+    "address": "890 Southampton Rd., Benicia CA, 94510",
+    "lat": 38.06731821780306,
+    "lng": -122.16805458068848,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(707) 746-1203"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 10am - 7pm",
+          "Sat : 9am - 5:30pm",
+          "Sun : Closed"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Delivery",
+      "Customer Service",
+      "Bakery",
+      "Cafe",
+      "Deli",
+      "Floral",
+      "Hot Wok",
+      "Meat",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-southampton-benicia-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – Lakewood Drive, Windsor, California",
+    "address": "8852 Lakewood Dr., Windsor CA, 95492",
+    "lat": 38.54884507925943,
+    "lng": -122.80534207820892,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(707) 838-6604"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 10am - 6:30pm",
+          "Sat : 9am - 5:30pm",
+          "Sun : Closed"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Customer Service",
+      "Bakery",
+      "Cafe",
+      "Deli",
+      "Floral",
+      "Meat",
+      "Produce",
+      "Online Shopping"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-lakewood-windsor-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – Hwy 49, Oakhurst, California",
+    "address": "40041 Hwy. 49, Oakhurst CA, 93644",
+    "lat": 37.332716348697076,
+    "lng": -119.65842962265015,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(559) 683-8300"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 10am - 7:30pm",
+          "Sat : 9am - 5:30pm",
+          "Sun : Closed"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Customer Service",
+      "Bakery",
+      "Cafe",
+      "Deli",
+      "Floral",
+      "Meat",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-hwy-49-oakhurst-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – Floyd Ave, Modesto, California",
+    "address": "3020 Floyd Avenue, Suite 139, Modesto CA, 95355",
+    "lat": 37.68083,
+    "lng": -120.939101,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(209) 551-2050"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 9am - 8pm",
+          "Sat - Sun : 9am - 5:30pm"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Delivery",
+      "Cafe",
+      "Bakery",
+      "Deli",
+      "Hot Wok",
+      "Sushi",
+      "Meat",
+      "Produce",
+      "Floral"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-floyd-modesto-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – East F Street, Oakdale, California",
+    "address": "1550 East F Street, Oakdale CA, 95361",
+    "lat": 37.771664582389825,
+    "lng": -120.82961082458496,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(209) 845-9800"
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      }
+    ],
+    "services": [
+      "Online Shopping",
+      "Customer Service",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Hot Wok",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-east-f-oakdale-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – Raley’s Town Centre, Rohnert Park, California",
+    "address": "100 Raley's Town Center, Rohnert Park CA, 94928",
+    "lat": 38.346561913580565,
+    "lng": -122.70694255828857,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(707) 585-3222"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 10am - 6:30pm",
+          "Sat : 9am - 5:30pm",
+          "Sun : Closed"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Delivery",
+      "Customer Service",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Hot Wok",
+      "Meat",
+      "Floral"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-raleys-town-centre-rohnert-park-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – Sand Creek Road, Brentwood, California",
+    "address": "2400 Sand Creek Road, Brentwood CA, 94513",
+    "lat": 37.94247146354244,
+    "lng": -121.73684120178223,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(925) 513-9400"
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      }
+    ],
+    "services": [
+      "Online Shopping",
+      "Delivery",
+      "Customer Service",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Hot Wok",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-sand-creek-brentwood-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – Lone Tree Way, Antioch, California",
+    "address": "3632 Lone Tree Way, Antioch CA, 94509",
+    "lat": 37.98573284312214,
+    "lng": -121.80686831474304,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(925) 754-2522"
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      }
+    ],
+    "services": [
+      "Online Shopping",
+      "Delivery",
+      "Customer Service",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-lone-tree-antioch/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – Travis Blvd, Fairfield, California",
+    "address": "3001 Travis Blvd., Fairfield CA, 94534",
+    "lat": 38.25779531186478,
+    "lng": -122.06599652767181,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(707) 429-8410"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 10am - 7pm",
+          "Sat : 9am - 5:30pm",
+          "Sun : Closed"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Delivery",
+      "Customer Service",
+      "Bakery",
+      "Deli",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-travis-fairfield-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – North Texas Street, Fairfield, California",
+    "address": "3330 North Texas Street, Fairfield CA, 94533",
+    "lat": 38.289018713583495,
+    "lng": -122.0328551530838,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(707) 421-9990"
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      }
+    ],
+    "services": [
+      "Online Shopping",
+      "Customer Service",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Hot Wok",
+      "Meat",
+      "Floral"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-north-texas-fairfield-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – Sunset Ave, Suisun City, California",
+    "address": "270 Sunset Ave., Suisun City CA, 94585",
+    "lat": 38.24569653200125,
+    "lng": -122.02175617218018,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(707) 426-1023"
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 10pm"
+        ]
+      }
+    ],
+    "services": [
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Meat",
+      "Floral"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-sunset-suisun-city/"
+  },
+  {
+    "name": "Raley’s | N. McDowell Blvd, Petaluma, California",
+    "address": "157 N. McDowell Blvd., Petaluma CA, 94954",
+    "lat": 38.24947129787659,
+    "lng": -122.6282787322998,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(707) 766-6700"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 10am - 6:30pm",
+          "Sat : 9am - 5:30pm",
+          "Sun : Closed"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Delivery",
+      "Customer Service",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-n-mcdowell-petaluma-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – N. State Street, Ukiah, California",
+    "address": "1315 N. State St., Ukiah CA, 95482",
+    "lat": 39.1683916700114,
+    "lng": -123.20943832397461,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(707) 468-5178"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 10am - 6:30pm",
+          "Sat : 9am - 5:30pm",
+          "Sun : Closed"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-n-state-ukiah-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – San Pablo Dam Road, San Pablo, California",
+    "address": "3360 San Pablo Dam Rd., San Pablo CA, 94806",
+    "lat": 37.96198855045565,
+    "lng": -122.32522130012512,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(510) 222-5935"
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      }
+    ],
+    "services": [
+      "Online Shopping",
+      "Delivery",
+      "Bakery",
+      "Deli",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-san-pablo-dam-san-pablo-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – Soscol Ave, Napa, California",
+    "address": "217 Soscol Avenue, Napa CA, 94559",
+    "lat": 38.283805920397604,
+    "lng": -122.27690935134888,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(707) 224-7897"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 9am - 7:30pm",
+          "Sat : 9am - 5:30pm",
+          "Sun : Closed"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Delivery",
+      "Customer Service",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Hot Wok",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-soscol-napa-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – South Tracy Blvd, Tracy, California",
+    "address": "2550 South Tracy Blvd., Tracy CA, 95376",
+    "lat": 37.711698741067885,
+    "lng": -121.43458843231201,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(209) 830-7700"
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      }
+    ],
+    "services": [
+      "Online Shopping",
+      "Delivery",
+      "Customer Service",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Hot Wok",
+      "Meat",
+      "Floral"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-south-tracy-blvd-tracy-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – Sunol Blvd, Pleasanton, California",
+    "address": "5420 Sunol Blvd., Pleasanton CA, 94566",
+    "lat": 37.65181174972776,
+    "lng": -121.8789553642273,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(925) 846-4471"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 10am - 6:30pm",
+          "Sat : 9am - 5:30pm",
+          "Sun : Closed"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Delivery",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Hot Wok",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-sunol-pleasanton-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – Paseo Padre Pkwy, Fremont, California",
+    "address": "39200 Paseo Padre Parkway, Fremont CA, 94538",
+    "lat": 37.55345775936034,
+    "lng": -121.97921633720398,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(510) 791-0233"
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      }
+    ],
+    "services": [
+      "Delivery",
+      "Deli",
+      "Bakery",
+      "Meat",
+      "Floral",
+      "Produce",
+      "Sushi"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-paseo-padre-fremont-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – Fulton Road, Santa Rosa, California",
+    "address": "1407 Fulton Rd., Santa Rosa CA, 95403",
+    "lat": 38.4540760164478,
+    "lng": -122.77084350585938,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(707) 546-3435"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 9am - 8pm",
+          "Sat : 9am - 5:30pm",
+          "Sun : Closed"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Delivery",
+      "Customer Service",
+      "Bakery",
+      "Deli",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-fulton-santa-rosa-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – Lathrop Road, Manteca, California",
+    "address": "1280 Lathrop Rd., Manteca CA, 95336",
+    "lat": 37.82580246092225,
+    "lng": -121.23804688453674,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(209) 825-0242"
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      }
+    ],
+    "services": [
+      "Online Shopping",
+      "Delivery",
+      "Customer Service",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-lathrop-manteca-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – Geer Road, Turlock, California",
+    "address": "2900 Geer Rd., Turlock CA, 95380",
+    "lat": 37.51906144113936,
+    "lng": -120.84763526916504,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(209) 667-5253"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 10am - 7pm",
+          "Sat : 9am - 5:30pm",
+          "Sun : Closed"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Customer Service",
+      "Online Shopping",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Sushi",
+      "Hot Wok",
+      "Meat",
+      "Floral",
+      "Community Room"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-geer-turlock-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – G Street, Merced, California",
+    "address": "3550 N. G St., Merced CA, 95340",
+    "lat": 37.33117225970516,
+    "lng": -120.46756625175476,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(209) 722-3689"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 10am - 7:30pm",
+          "Sat - Sun : 9am - 5:30pm"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Customer Service",
+      "Online Shopping",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-n-g-st-merced-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – Tully Road, Modesto, California",
+    "address": "3430 Tully Rd., Suite #40, Modesto CA, 95350",
+    "lat": 37.68835425394432,
+    "lng": -121.01118564605713,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(209) 527-2201"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 10am - 7pm",
+          "Sat : 9am - 5:30pm",
+          "Sun : Closed"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Customer Service",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-tully-modesto-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – Morada Lane, Stockton, California",
+    "address": "4255 East Morada Lane, Stockton CA, 95212",
+    "lat": 38.03711,
+    "lng": -121.261393,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(209) 956-9300"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 10pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 10am - 7:30pm",
+          "Sat - Sun : 9am - 5:30pm"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Delivery",
+      "Customer Service",
+      "Bakery",
+      "Deli",
+      "Hot Wok",
+      "Sushi",
+      "Meat",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-east-morada-stockton-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – Main Street, Oakley, California",
+    "address": "2077 Main St., Oakley CA, 94561",
+    "lat": 38.00301926733214,
+    "lng": -121.733558177948,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(925) 625-0744"
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      }
+    ],
+    "services": [
+      "Customer Service",
+      "Bakery",
+      "Deli",
+      "Meat",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-main-st-oakley-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – Twin Cities Road, Galt, California",
+    "address": "10430 Twin Cities Road, Galt CA, 95632",
+    "lat": 38.28985238891508,
+    "lng": -121.30779504776001,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(209) 745-4668"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 10pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 10am - 7pm",
+          "Sat : 9am - 5:30pm",
+          "Sun : Closed"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Customer Service",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Hot Wok",
+      "Meat",
+      "Floral",
+      "Produce",
+      "Online Shopping"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-twin-cities-galt-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – Notre Dame Blvd, Chico, California",
+    "address": "2485 Notre Dame Blvd., Chico CA, 95928",
+    "lat": 39.716587210718124,
+    "lng": -121.79360747337341,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(530) 895-0933"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 9am - 8pm",
+          "Sat - Sun : 9am - 5:30pm"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-notre-dame-chico-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – Lake Blvd,  Redding, California",
+    "address": "201 Lake Blvd., Redding CA, 96003",
+    "lat": 40.61147649863637,
+    "lng": -122.37985253334045,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(530) 246-3508"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 10am - 7pm",
+          "Sat : 9am - 5:30pm",
+          "Sun : Closed"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Customer Service",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-lake-redding-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – Fort Jones Street, Yreka, California",
+    "address": "1842 Fort Jones St., Yreka CA, 96097",
+    "lat": 41.70057797859929,
+    "lng": -122.64458656311035,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(530) 842-4307"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 10pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 9am - 9pm",
+          "Sat - Sun : 9am - 5:30pm"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Customer Service",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Meat",
+      "Floral"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-fort-jones-yreka-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – West East Ave, Chico, California",
+    "address": "211 West East Ave, Chico CA, 95926",
+    "lat": 39.75471275080197,
+    "lng": -121.86235785484314,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(530) 899-3300"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 9am - 8pm",
+          "Sat - Sun : 9am - 5:30pm"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-west-east-ave-chico-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – Onstott Road, Yuba City, California",
+    "address": "700 W. Onstott Frontage Road, Yuba City CA, 95991",
+    "lat": 39.1331062198735,
+    "lng": -121.63679480552673,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(530) 673-5931"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 10am - 7:30pm",
+          "Sat : 9am - 5:30pm",
+          "Sun : Closed"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Customer Service",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-w-onstott-yuba-city-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – Lichen Drive, Citrus Heights, California",
+    "address": "7847 Lichen Drive, Citrus Heights CA, 95621",
+    "lat": 38.70909769944341,
+    "lng": -121.31307363510132,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(916) 722-4535"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 10am - 6:30pm",
+          "Sat : 9am - 5:30pm",
+          "Sun : Closed"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Customer Service",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-lichen-citrus-heights-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – Myers Street, Oroville, California",
+    "address": "2325 Myers St., Oroville CA, 95966",
+    "lat": 39.50692144289407,
+    "lng": -121.54983758926392,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(530) 533-2515"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 10am - 7pm",
+          "Sat : 9am - 5:30pm",
+          "Sun : Closed"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Bakery",
+      "Deli",
+      "Customer Service",
+      "Cafe",
+      "Meat",
+      "Floral"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-myers-oroville-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – S. Main Street, Red Bluff, California",
+    "address": "725 S. Main St., Red Bluff CA, 96080",
+    "lat": 40.16208338164617,
+    "lng": -122.22744941711426,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(530) 527-6902"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 9am - 9pm",
+          "Sat - Sun : 9am - 5:30pm"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-s-main-red-bluff-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – Horseshoe Bar Road, Loomis, California",
+    "address": "6119 Horseshoe Bar Road, Loomis CA, 95650",
+    "lat": 38.81793500693898,
+    "lng": -121.18879079818726,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(916) 652-5737"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 10am - 7pm",
+          "Sat : 9am - 5:30pm",
+          "Sun : Closed"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-horseshoe-loomis-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – Lincoln Blvd, Lincoln, California",
+    "address": "39 Lincoln Blvd., Lincoln CA, 95648",
+    "lat": 38.87102173741712,
+    "lng": -121.29846096038818,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(916) 408-5775"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 10am - 6:30pm",
+          "Sat : 9am - 5:30pm",
+          "Sun : Closed"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Deli",
+      "Cafe",
+      "Hot Wok",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-lincoln-lincoln-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – Lincoln Way,  Auburn, California",
+    "address": "13384 Lincoln Way, Auburn CA, 95603",
+    "lat": 38.9239269537815,
+    "lng": -121.05455160140991,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(530) 885-0669"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 9am - 8pm",
+          "Sat - Sun : 9am - 5:30pm"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-lincoln-auburn-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – Woodcreek Oaks Blvd, Roseville, California",
+    "address": "4051 Woodcreek Oaks Blvd., Roseville CA, 95747",
+    "lat": 38.76981944292723,
+    "lng": -121.33170962333679,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(916) 771-0880"
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      }
+    ],
+    "services": [
+      "Online Shopping",
+      "Delivery",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-woodcreek-roseville-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – Douglas Blvd, Roseville, California",
+    "address": "1915 Douglas Blvd., Roseville CA, 95661",
+    "lat": 38.74548171376125,
+    "lng": -121.25677943229675,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(916) 781-7845"
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      }
+    ],
+    "services": [
+      "Online Shopping",
+      "Delivery",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Hot Wok",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-douglas-roseville-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – Freeman Lane, Grass Valley, California",
+    "address": "692 Freeman Lane, Grass Valley CA, 95949",
+    "lat": 39.20240402813152,
+    "lng": -121.06472253799438,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(530) 272-1958"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 9am - 9pm",
+          "Sat - Sun : 9am - 5:30pm"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Hot Wok",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-freeman-grass-valley-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – West Main Street, Woodland, California",
+    "address": "367 West Main St., Woodland CA, 95695",
+    "lat": 38.676631914849125,
+    "lng": -121.80114984512329,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(530) 666-1156"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 10am - 7pm",
+          "Sat : 9am - 5:30pm",
+          "Sun : Closed"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Hot Wok",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-west-main-woodland-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – Lake Tahoe Blvd, South Lake Tahoe, California",
+    "address": "4000 Lake Tahoe Blvd. #6, South Lake Tahoe CA, 96150",
+    "lat": 38.95435296444509,
+    "lng": -119.94310855865479,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(530) 544-3417"
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 9am - 8pm"
+        ]
+      }
+    ],
+    "services": [
+      "Online Shopping",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Hot Wok",
+      "Meat",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-lake-tahoe-south-lake-tahoe-california/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – Emerald Bay Rd, South Lake Tahoe, California",
+    "address": "1040 Emerald Bay Rd., South Lake Tahoe CA, 96150",
+    "lat": 38.91148491454612,
+    "lng": -120.00474035739899,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(530) 541-5160"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 9am - 8pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 9am - 8pm",
+          "Sat - Sun : 9am - 5:30pm"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Hot Wok",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-emerald-bay-south-lake-tahoe/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – Mountain City Hwy, Elko, Nevada",
+    "address": "2505 Mountain City Hwy., Elko NV, 89801",
+    "lat": 40.837304308175014,
+    "lng": -115.79233646392822,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(775) 738-2775"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 9am - 7pm",
+          "Sat : 9am - 5pm",
+          "Sun : Closed"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-mountain-city-elko-nevada/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – North Hills Blvd, Reno, Nevada",
+    "address": "1075  N. Hills Blvd., Reno NV, 89506",
+    "lat": 39.60510128761265,
+    "lng": -119.84010100364685,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(775) 677-8777"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 7am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 10am - 7:30am",
+          "Sat : 9am - 5:30pm",
+          "Sun : Closed"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Hot Wok",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-hills-reno-nevada/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – Carson Street, Carson City, Nevada",
+    "address": "3701 S. Carson St., Carson City NV, 89701",
+    "lat": 39.13298970948719,
+    "lng": -119.76828217506409,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(775) 883-8301"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 10pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 10am - 6:30pm",
+          "Sat : 9am - 5:30pm",
+          "Sun : Closed"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-carson-carson-city-nevada/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – Tahoe Blvd, Incline Village, Nevada",
+    "address": "930 Tahoe Blvd., Incline Village NV, 89451",
+    "lat": 39.250554485073316,
+    "lng": -119.9495941400528,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(775) 831-3400"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 7am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 10am - 7pm",
+          "Sat : 9am - 5:30pm",
+          "Sun : Closed"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Mongolian Grill",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-tahoe-incline-village-nevada/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – Wingfield Hills Rd, Spanish Springs, Nevada",
+    "address": "2389 Wingfield Hills Road, Spanish Springs NV, 89436",
+    "lat": 39.60267927756417,
+    "lng": -119.68299865722656,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(775) 626-8300"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 10pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 10am - 6:30pm",
+          "Sat : 9am - 5:30pm",
+          "Sun : Closed"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-wingfield-hills-spanish-springs-nevada/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – Highway 395 North, Gardnerville, Nevada",
+    "address": "1363 Highway 395 North, Gardnerville NV, 89410",
+    "lat": 38.938916274648975,
+    "lng": -119.74316596984863,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(775) 782-5130"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 7am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 10am - 6:30pm",
+          "Sat : 9am - 5:30pm",
+          "Sun : Closed"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-highway-gardnerville-nevada/"
+  },
+  {
+    "name": "Raley’s O-N-E Market | Grocery Store – Wedge Parkway, Reno, Nevada",
+    "address": "18144 Wedge Parkway, Reno NV, 89511",
+    "lat": 39.39476612034833,
+    "lng": -119.7658896446228,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(775) 850-8900"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 10am - 7:30pm",
+          "Sat : 9am - 5:30pm",
+          "Sun : Closed"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Delivery",
+      "Customer Service",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Meat",
+      "Floral"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-wedge-parkway-reno-nevada/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – Robb Drive, Reno, Nevada",
+    "address": "1630 Robb Drive, Reno NV, 89523",
+    "lat": 39.528250082734864,
+    "lng": -119.8818576335907,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(775) 746-6400"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 10am - 7:30pm",
+          "Sat : 9am - 5:30pm",
+          "Sun : Closed"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Delivery",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Sushi",
+      "Hot Wok",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-robb-reno-nevada/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – Keystone Ave, Reno, Nevada",
+    "address": "701 Keystone Ave., Reno NV, 89503",
+    "lat": 39.531373926071744,
+    "lng": -119.83204364776611,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(775) 747-5267"
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 6am - 11pm"
+        ]
+      }
+    ],
+    "services": [
+      "Online Shopping",
+      "Bakery",
+      "Deli",
+      "Cafe",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-keystone-reno-nevada/"
+  },
+  {
+    "name": "Raley’s | Grocery Store – North McCarran Blvd, Sparks, Nevada",
+    "address": "2895 North McCarran Blvd., Sparks NV, 89431",
+    "lat": 39.55550346411368,
+    "lng": -119.75404500961304,
+    "contact_list": [
+      {
+        "label": "Store",
+        "phone": "(775) 353-8800"
+      },
+      {
+        "label": "Pharmacy",
+        "phone": null
+      }
+    ],
+    "hours": [
+      {
+        "label": "Store Hours",
+        "hours": [
+          "Mon - Sun : 7am - 10pm"
+        ]
+      },
+      {
+        "label": "Pharmacy Hours",
+        "hours": [
+          "Mon - Fri : 10am - 6:30pm",
+          "Sat : 9am - 5:30pm",
+          "Sun : Closed"
+        ]
+      }
+    ],
+    "services": [
+      "Pharmacy",
+      "Online Shopping",
+      "Bakery",
+      "Cafe",
+      "Deli",
+      "Meat",
+      "Floral",
+      "Produce"
+    ],
+    "page": "https://www.raleys.com/stores/raleys-mccarran-sparks-nevada/"
+  }
+]
